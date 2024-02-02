@@ -6,4 +6,6 @@
 
 equipos como liverpool, manchester city, chelsea,
 manchester united, arsenal, everton, wolves
-newcastle, crystal palaca
+newcastle, crystal palaca, Burnley, fulham,
+aston villa, west ham, luton, brentford,
+tottenham entre otros.
